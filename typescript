@@ -1,118 +1,0 @@
-Script started on Thu Jul 28 13:26:13 2022
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hppwd[?1l>[?2004l
-]697;PreExec]2;pwd]1;pwd/Users/rich/development/scripts/daily-log
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbbun run    daily-note    log.js             b  pwdbun run scriptdaily-log.js  ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.08ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbun run daily-log.ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.08ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbun run daily-log.ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.08ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index /Users/rich/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/work/Work Lo
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbun run daily-log.ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.07ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index /Users/rich/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/work/Work Lo
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbun run daily-log.ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.08ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index /Users/rich/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/work/Work Lo
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hbun run daily-log.ts[?1l>[?2004l
-]697;PreExec]2;bun run daily-log.ts]1;bun[0m[2m[[1m0.10ms[0m[2m][0m [2m".env"[0m
-Starting
-getting index /Users/rich/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/work/Work Lo
-Done
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hppwd[?1l>[?2004l
-]697;PreExec]2;pwd]1;pwd/Users/rich/development/scripts/daily-log
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hggit init     g  ggjg gh repo create --public[?1l>[?2004l
-]697;PreExec]2;gh repo create --public]1;ghname argument required to create new remote repository
-
-Usage:  gh repo create [<name>] [flags]
-
-Flags:
-  -c, --clone                  Clone the new repository to the current directory
-  -d, --description string     Description of the repository
-      --disable-issues         Disable issues in the new repository
-      --disable-wiki           Disable wiki in the new repository
-  -g, --gitignore string       Specify a gitignore template for the repository
-  -h, --homepage URL           Repository home page URL
-      --include-all-branches   Include all branches from template repository
-      --internal               Make the new repository internal
-  -l, --license string         Specify an Open Source License for the repository
-      --private                Make the new repository private
-      --public                 Make the new repository public
-      --push                   Push local commits to the new repository
-  -r, --remote string          Specify remote name for the new repository
-  -s, --source string          Specify path to local repository to use as source
-  -t, --team name              The name of the organization team to be granted access
-  -p, --template repository    Make the new repository based on a template repository
-  
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=1]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hgh repo create --public daily-note[?1l>[?2004l
-]697;PreExec]2;gh repo create --public daily-note]1;gh[0;32m✓[0m Created repository richpjames/daily-note on GitHub
-
-
-[0;33mA new release of gh is available:[0m [0;36m2.12.1[0m → [0;36m2.14.3[0m
-To upgrade, run: brew update && brew upgrade gh
-[0;33mhttps://github.com/cli/cli/releases/tag/v2.14.3[0m
-
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m ]697;EndPrompt]697;NewCmd[K[37C]697;StartPrompt]697;EndPrompt[37D[?1h=[?2004hggit init[?1l>[?2004l
-]697;PreExec]2;git init]1;gitInitialized empty Git repository in /Users/rich/development/scripts/daily-log/.git/
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004hggit repo [?1l>[?2004l
-]697;PreExec]2;git repo]1;gitgit: 'repo' is not a git command. See 'git --help'.
-
-The most similar commands are
-	grep
-	reflog
-	remote
-	repack
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=1]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004hggh repo[?1l>[?2004l
-]697;PreExec]2;gh repo]1;ghWork with GitHub repositories.
-
-[0;1;39mUSAGE[0m
-  gh repo <command> [flags]
-
-[0;1;39mCORE COMMANDS[0m
-  archive:     Archive a repository
-  clone:       Clone a repository locally
-  create:      Create a new repository
-  delete:      Delete a repository
-  deploy-key:  Manage deploy keys in a repository
-  edit:        Edit repository settings
-  fork:        Create a fork of a repository
-  list:        List repositories owned by user or organization
-  rename:      Rename a repository
-  sync:        Sync a repository
-  view:        View a repository
-
-[0;1;39mINHERITED FLAGS[0m
-  --help   Show help for command
-
-[0;1;39mARGUMENTS[0m
-  A repository can be supplied as an argument in any of the following formats:
-  - "OWNER/REPO"
-  - by URL, e.g. "https://github.com/OWNER/REPO"
-
-[0;1;39mEXAMPLES[0m
-  $ gh repo create
-  $ gh repo clone cli/cli
-  $ gh repo view --web
-
-[0;1;39mLEARN MORE[0m
-  Use 'gh <command> <subcommand> --help' for more information about a command.
-  Read the manual at https://cli.github.com/manual
-
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004h  gh repo rep   view --web dail[Ky [K--note[?1l>[?2004l
-]697;PreExec]2;gh repo view --web daily-note]1;ghOpening github.com/richpjames/daily-note in your browser.
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004h[7mgit remote add origin git[7m@[7mgithub.com:User/UserRepo.git[27m[K[A[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mU[27ms[27me[27mr[27m/[27mU[27ms[27me[27mr[27mR[27me[27mp[27mo[27m.[27mg[27mi[27mt[A[K[24C]697;StartPrompt]697;EndPrompt[1B[K[A[26C[?2004l[1B[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=130]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box]697;PreExec[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004httouch .gitignore[?1l>[?2004l
-]697;PreExec]2;touch .gitignore]1;touch[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=0]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box[0m[27m[24m[J]697;StartPrompt[01;32m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004htouch .gitignore[16D                [16D[7mgit remote add origin git[7m@[7mgithub.com:User/UserRepo.git[27m[K[A[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mU[27ms[27me[27mr[27m/[27mU[27ms[27me[27mr[27mR[27me[27mp[27mo[27m.[27mg[27mi[27mt[1C[1C[1C[1C[1C[1C[1C[1Cgit [A[1C[K[24C]697;StartPrompt]697;EndPrompt[1B[K[A[26C[?2004l[1B[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=130]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box]697;PreExec[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004h[?1l>[?2004l
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=130]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box]697;PreExec[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004h[?1l>[?2004l
-[1m[7m%[27m[1m[0m                                                   ]2;rich@Richards-MBP: ~/development/scripts/daily-log]1;..pts/daily-log]697;SSH=0]697;Docker=0]697;Dir=/Users/rich/development/scripts/daily-log]697;Shell=zsh]697;PID=39157]697;SessionId=950DDC3B-1A11-4B12-8C8F-EFCC3E048D79]697;ExitCode=130]697;TTY=/dev/ttys005]697;Log=]697;ZshAutosuggestionColor=]697;Hostname=rich@Richards-MBP.fritz.box]697;PreExec[0m[27m[24m[J]697;StartPrompt[01;31m➜  [36mdaily-log[00m [01;34mgit:([31mmain[34m) [33m✗[00m ]697;EndPrompt]697;NewCmd[K[24C]697;StartPrompt]697;EndPrompt[24D[?1h=[?2004h[7mgit remote add origin git[7m@[7mgithub.com:User/UserRepo.git[27m[K[A[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mU[27ms[27me[27mr[27m/[27mU[27ms[27me[27mr[27mR[27me[27mp[27mo[27m.[27mg[27mi[27mt[A[25C[K[24C]697;StartPrompt]697;EndPrompt[1B[K[A[26Cggit remote add origin gi[Kt [K@@github.com
