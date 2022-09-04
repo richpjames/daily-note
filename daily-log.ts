@@ -77,6 +77,6 @@ const makeLogEntry = async (dirName, today, template, type) => {
 };
 
 console.log("Starting");
-makeLogEntry(workLogDir, today, workTemplate, "work");
-// makeLogEntry(logDir, today, nonWorkTemplate, "not work");
+// makeLogEntry(workLogDir, today, workTemplate, "work");
+makeLogEntry(logDir, today, nonWorkTemplate, "not work");
 console.log("Done");
